@@ -9,4 +9,4 @@ a { text-decoration: none; }
 
 /* more recent takes precedence */
 p { color: magenta; }
-p { color: orange; }
+p { color: yellow; }
